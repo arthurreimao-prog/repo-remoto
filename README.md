@@ -1,3 +1,3 @@
-#repo-remoto
+# repo-local
 
 # teste
